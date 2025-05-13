@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👩‍💻 Clara Batista de Oliveira
 
-<!--
-**Oliveirabclara/Oliveirabclara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Estudante de Análise e Desenvolvimento de Sistemas | 👩‍🏫 Buscando estágio em TI
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Atualmente estudando
+- React.js
+- Python
+- Inteligência Artificial
+- Estrutura de Dados
+- Inglês técnico para TI
+
+## 📈 GitHub Stats
+![Clara's GitHub stats](https://github-readme-stats.vercel.app/api?username=claraoliveira&show_icons=true&theme=radical)
+
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clara-batista-de-oliveira/) | batistaoliveira.clara@gmail.com
