@@ -15,7 +15,8 @@
 - Inglês técnico para TI
 
 ## 📈 GitHub Stats
-![Clara's GitHub stats](https://github-readme-stats.vercel.app/api?username=claraoliveira&show_icons=true&theme=radical)
+![Clara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oliveirabclara&theme=neon&show_icons=true)
+
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clara-batista-de-oliveira/) | batistaoliveira.clara@gmail.com
